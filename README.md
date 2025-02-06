@@ -4,15 +4,15 @@
 
 Table of Contents: 
 
-## Part 1: (About) 
+Part 1: (About) 
 
-## Part 2: (Help) 
+Part 2: (Help) 
 
-## Part 3: (Contact) 
+Part 3: (Contact) 
 
-## Part 4: (Q&A) 
+Part 4: (Q&A) 
 
-## Part 5: (Credits) 
+Part 5: (Credits) 
 
 ============================================================================== 
 
